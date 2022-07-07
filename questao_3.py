@@ -1,5 +1,5 @@
 import json
-
+# Só achei o arquivo JSON quando já havia enviado o teste, o e-mail acabou indo para a caixa de SPAM
 
 arquivo = open('faturamento.json', 'r')
 
